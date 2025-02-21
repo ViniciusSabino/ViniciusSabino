@@ -8,7 +8,7 @@ Tenho experiência com Node.js, TypeScript e ASP.NET Core, aplicando boas práti
 📌 Aqui no GitHub, compartilho projetos e estudos voltados para backend, arquitetura de software e automação.
 
 📌 Projetos Pessoais
-	•	🔹 [Financial Targets](https://cooked-helicopter-751.notion.site/Financial-Targets-98843020640d4f86a911fbc4760fee89) – Aplicação para controle e gestão de metas financeiras, construída com Java e soluções Low Code/No Code. (Em Desenvolvimento)
-	•	🔹 House Tracker – Breve descrição do projeto. 
+- [Financial Targets](https://cooked-helicopter-751.notion.site/Financial-Targets-98843020640d4f86a911fbc4760fee89) – Aplicação para controle e gestão de metas financeiras, construída com Java e soluções Low Code/No Code. (Em Desenvolvimento)
+- [House Tracker]() – Breve descrição do projeto. 
 
 [LinkedIn](https://www.linkedin.com/in/rochasabino/)
