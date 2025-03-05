@@ -1,13 +1,14 @@
-🚀 Engenheiro de Software | Java, Node.js & Arquitetura de Software
+# Vinícius Rocha - Engenheiro de Software | Java, Node.js 👋
 
-Atualmente, desenvolvo microserviços em Java com Spring Boot. 
-Tenho experiência com Node.js, TypeScript e ASP.NET Core, aplicando boas práticas de desenvolvimento e arquitetura.
+Engenheiro de Software com mais de 6 anos de experiência, especializado em desenvolvimento Back-End com **Node.js (JavaScript/TypeScript)** e atualmente aprofundando meus conhecimentos em **Java**. 
 
-💡 Interesso-me por arquitetura de software, DDD, microsserviços e boas práticas. 
+## 💻 Tecnologias e Ferramentas
+- **Linguagens:** Java | JavaScript | TypeScript
+- **Back-End:** Spring Boot | Node.js 
+- **Banco de Dados:** PostgreSQL | MongoDB
+- **Ferramentas DevOps:** Docker | CI/CD
+- **Cloud:** AWS (EC2, S3, Lambda) 
+- **Outros:** Git | Kafka
 
-Aqui no GitHub, compartilho projetos e estudos voltados para backend, arquitetura de software e automação.
+[![Linktree](https://img.shields.io/badge/Linktree-000?style=for-the-badge&logo=linktree&logoColor=39E09B)](https://linktr.ee/viniciusrocha.linkedin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/rochasabino/) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/vinne.rocha/)  
 
-📌 Projetos Pessoais
-- [Financial Targets](https://cooked-helicopter-751.notion.site/Financial-Targets-98843020640d4f86a911fbc4760fee89) 
-
-[LinkedIn](https://www.linkedin.com/in/rochasabino/)
