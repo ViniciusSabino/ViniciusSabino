@@ -12,5 +12,5 @@ Tenho experiência sólida com tecnologias como Java (Spring Boot), Node.js, Gra
 - **Cloud:** AWS (SQS, S3, Lambda, SNS) 
 - **Outros:** Git | Apache Kafka | Sonarqube
 
-[![Linktree](https://img.shields.io/badge/Linktree-000?style=for-the-badge&logo=linktree&logoColor=39E09B)](https://linktr.ee/viniciusrocha.linkedin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/rochasabino/) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/vinne.rocha/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/rochasabino/) 
 
