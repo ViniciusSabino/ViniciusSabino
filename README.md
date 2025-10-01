@@ -1,4 +1,4 @@
-# Vinícius Rocha - Engenheiro de Software | Java e Node.js 👋
+# Vinícius Rocha - Engenheiro de Software | Java e Node.js
 
 Engenheiro de Software com mais de 6 anos de experiência em desenvolvimento Back-End, especializado em arquiteturas de microserviços em Java e Node.js.
 
